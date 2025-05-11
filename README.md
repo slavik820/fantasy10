@@ -1,2 +1,2 @@
 # fantasy10
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Dragon](https://github.com/slavik820/fantasy10/blob/main/2.png)
