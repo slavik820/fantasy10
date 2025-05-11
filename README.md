@@ -1,2 +1,2 @@
 # fantasy10
-![Dragon](https://github.com/slavik820/fantasy10/blob/main/2.png)
+![Dragon](https://raw.githubusercontent.com/slavik820/fantasy10/main/2.png)
